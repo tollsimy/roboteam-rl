@@ -116,6 +116,7 @@ var NAVTREEINDEX8 =
 "d9/d98/BallInOurDefenseAreaAndStillGlobalEvaluation_8h.html":[4,0,0,0,0,3,2,1,4],
 "d9/d98/BallInOurDefenseAreaAndStillGlobalEvaluation_8h_source.html":[4,0,0,0,0,3,2,1,4],
 "d9/d9b/rl_8cpp.html":[4,0,0,1,4,0],
+"d9/d9b/rl_8cpp.html#a2104fdef3daadedd87ed2491c16d7def":[4,0,0,1,4,0,0],
 "d9/d9e/PenaltyUsPrepare_8cpp.html":[4,0,0,1,5,2,2,16],
 "d9/d9e/PenaltyUsPrepare_8cpp.html#ac50631db44841dd08ab8857eb1955735":[4,0,0,1,5,2,2,16,0],
 "d9/da4/classrtt_1_1Trajectory2D.html":[3,0,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "d9/df0/classrtt_1_1ai_1_1stp_1_1play_1_1KickOffUsPrepare.html#afc2268677ee563a2f0a7efa4acff465e":[3,0,1,0,4,3,19,22],
 "d9/df4/roles_2passive_2Halt_8cpp.html":[4,0,0,1,5,3,1,3],
 "d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html":[3,0,1,0,4,6,8],
-"d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a0dd3439d999970125264ce7fccadff49":[3,0,1,0,4,6,8,13],
-"d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a2406ddec88191f369b72206849a1d9a4":[3,0,1,0,4,6,8,6]
+"d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a0dd3439d999970125264ce7fccadff49":[3,0,1,0,4,6,8,13]
 };

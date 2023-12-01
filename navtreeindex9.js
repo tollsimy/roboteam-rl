@@ -1,5 +1,6 @@
 var NAVTREEINDEX9 =
 {
+"d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a2406ddec88191f369b72206849a1d9a4":[3,0,1,0,4,6,8,6],
 "d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a242748b42fbc99613b65f6500eb12f8f":[3,0,1,0,4,6,8,14],
 "d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a35be8571412d041bfe1e54ac337ebea8":[3,0,1,0,4,6,8,10],
 "d9/df5/classrtt_1_1ai_1_1stp_1_1tactic_1_1AvoidBall.html#a483d158a091f8347c3c25983b22d015f":[3,0,1,0,4,6,8,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX9 =
 "db/d03/classrtt_1_1ai_1_1stp_1_1play_1_1PenaltyUs.html#afc2268677ee563a2f0a7efa4acff465e":[3,0,1,0,4,3,22,22],
 "db/d17/namespacertt_1_1ai_1_1stp_1_1control__constants.html":[2,0,10,0,5,1],
 "db/d17/namespacertt_1_1ai_1_1stp_1_1control__constants.html#a04a3cb6fafbe1eb9b78c04122caea777":[2,0,10,0,5,1,11],
-"db/d17/namespacertt_1_1ai_1_1stp_1_1control__constants.html#a04e24cd2d84ffdc44bff5e601c684c99":[2,0,10,0,5,1,23],
-"db/d17/namespacertt_1_1ai_1_1stp_1_1control__constants.html#a059d6b0747d1e01aac3683af5f91822e":[2,0,10,0,5,1,32]
+"db/d17/namespacertt_1_1ai_1_1stp_1_1control__constants.html#a04e24cd2d84ffdc44bff5e601c684c99":[2,0,10,0,5,1,23]
 };

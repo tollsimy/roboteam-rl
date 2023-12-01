@@ -4,7 +4,9 @@ var namespacertt_1_1ai =
     [ "gui", "db/d19/namespacertt_1_1ai_1_1gui.html", "db/d19/namespacertt_1_1ai_1_1gui" ],
     [ "interface", "d8/d44/namespacertt_1_1ai_1_1interface.html", "d8/d44/namespacertt_1_1ai_1_1interface" ],
     [ "io", "dd/d1e/namespacertt_1_1ai_1_1io.html", "dd/d1e/namespacertt_1_1ai_1_1io" ],
-    [ "rl", "dd/d60/namespacertt_1_1ai_1_1rl.html", null ],
+    [ "rl", "dd/d60/namespacertt_1_1ai_1_1rl.html", [
+      [ "testLibtorch", "dd/d60/namespacertt_1_1ai_1_1rl.html#a2104fdef3daadedd87ed2491c16d7def", null ]
+    ] ],
     [ "stp", "d5/d14/namespacertt_1_1ai_1_1stp.html", "d5/d14/namespacertt_1_1ai_1_1stp" ],
     [ "Constants", "d9/dc5/classrtt_1_1ai_1_1Constants.html", "d9/dc5/classrtt_1_1ai_1_1Constants" ],
     [ "Dealer", "d7/ddc/classrtt_1_1ai_1_1Dealer.html", "d7/ddc/classrtt_1_1ai_1_1Dealer" ],

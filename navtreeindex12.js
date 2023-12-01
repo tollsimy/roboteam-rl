@@ -1,5 +1,6 @@
 var NAVTREEINDEX12 =
 {
+"dd/d29/ChipAtPos_8cpp.html":[4,0,0,1,5,5,0,0],
 "dd/d29/TestTactic_8cpp.html":[4,0,0,1,5,5,3],
 "dd/d2c/classrtt_1_1ai_1_1stp_1_1PositionComputations.html":[3,0,1,0,4,9],
 "dd/d2c/classrtt_1_1ai_1_1stp_1_1PositionComputations.html#a0165983b2c1c2bc9d509b295dd826511":[3,0,1,0,4,9,2],
@@ -26,8 +27,8 @@ var NAVTREEINDEX12 =
 "dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#ac0ae5e8a81a8d7a94e5927977b638422":[3,0,1,0,4,14,0,0],
 "dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#ac0ae5e8a81a8d7a94e5927977b638422":[4,0,0,0,0,3,9,1,0],
 "dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#afdcb1e9041507c8a71b63521041203b2":[3,0,1,0,4,14,4],
-"dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#d9/dd7/structrtt_1_1ai_1_1stp_1_1PlayEvaluator_1_1PlayScoring":[3,0,1,0,4,14,0],
 "dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#d9/dd7/structrtt_1_1ai_1_1stp_1_1PlayEvaluator_1_1PlayScoring":[4,0,0,0,0,3,9,1],
+"dd/d34/classrtt_1_1ai_1_1stp_1_1PlayEvaluator.html#d9/dd7/structrtt_1_1ai_1_1stp_1_1PlayEvaluator_1_1PlayScoring":[3,0,1,0,4,14,0],
 "dd/d4b/classrtt_1_1ai_1_1stp_1_1evaluation_1_1StopGameStateEvaluation.html":[3,0,1,0,4,1,17],
 "dd/d4b/classrtt_1_1ai_1_1stp_1_1evaluation_1_1StopGameStateEvaluation.html#a293504db20d6b1a7e6d40c5060b60a89":[3,0,1,0,4,1,17,1],
 "dd/d4b/classrtt_1_1ai_1_1stp_1_1evaluation_1_1StopGameStateEvaluation.html#a9f8cc42698553fc84df4ce7e4b1a68b9":[3,0,1,0,4,1,17,0],
@@ -38,6 +39,7 @@ var NAVTREEINDEX12 =
 "dd/d4f/classrtt_1_1ai_1_1control_1_1PositionControlUtils.html#ad343ac5541f373836c0c54f107e93a4d":[3,0,1,0,0,11,0],
 "dd/d4f/classrtt_1_1ai_1_1control_1_1PositionControlUtils.html#af7d3d95b3fd1f48b8c88258eaa30b98d":[3,0,1,0,0,11,4],
 "dd/d60/namespacertt_1_1ai_1_1rl.html":[2,0,10,0,4],
+"dd/d60/namespacertt_1_1ai_1_1rl.html#a2104fdef3daadedd87ed2491c16d7def":[2,0,10,0,4,0],
 "dd/d67/BBTPathTracking_8h.html":[4,0,0,0,0,0,0,2,0],
 "dd/d67/BBTPathTracking_8h_source.html":[4,0,0,0,0,0,0,2,0],
 "dd/d6a/classrtt_1_1ai_1_1stp_1_1role_1_1BallDefender.html":[3,0,1,0,4,4,11],
@@ -247,7 +249,5 @@ var NAVTREEINDEX12 =
 "de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#ab7650037eb092459aca7247ea77f2ad4":[3,0,1,0,4,20,4],
 "de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#ab8d1e4dfb359b1438512e1ac9a0dfb84":[3,0,1,0,4,20,0],
 "de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#ac66cf9fe9def08172b053a6abc869ba1":[3,0,1,0,4,20,11],
-"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#ac7dba7916b5fc648439cb51181d01358":[3,0,1,0,4,20,10],
-"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#af4a9f63577d36c0cf178aae99fb0fd00":[3,0,1,0,4,20,8],
-"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#afb1458c3773ef5d68fac7bf41966f0d5":[3,0,1,0,4,20,6]
+"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#ac7dba7916b5fc648439cb51181d01358":[3,0,1,0,4,20,10]
 };

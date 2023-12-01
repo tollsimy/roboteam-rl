@@ -1,5 +1,7 @@
 var NAVTREEINDEX13 =
 {
+"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#af4a9f63577d36c0cf178aae99fb0fd00":[3,0,1,0,4,20,8],
+"de/d0f/classrtt_1_1ai_1_1stp_1_1TestTactic.html#afb1458c3773ef5d68fac7bf41966f0d5":[3,0,1,0,4,20,6],
 "de/d16/Param_8h.html":[4,0,0,1,3,0,0,0],
 "de/d16/Param_8h.html#a02cfabf0fd550abc38f76348354dd2de":[4,0,0,1,3,0,0,0,1],
 "de/d16/Param_8h_source.html":[4,0,0,1,3,0,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX13 =
 "df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a0c13cbd482099fa139f3a5f08d964efe":[3,0,1,0,4,3,10,28],
 "df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a17fc7a716064d918aa29c072832c2ef8":[3,0,1,0,4,3,10,18],
 "df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a1cb900cb312f0aea58bfe08a773803a6":[3,0,1,0,4,3,10,5],
-"df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a1dc216d51c90eb0e6ddb0298e1ad034e":[3,0,1,0,4,3,10,17],
-"df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a4598ba530d29d7f4f53bcec0c9845100":[3,0,1,0,4,3,10,25],
-"df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a52fc8b6075367b48ae05021829ebcc8f":[3,0,1,0,4,3,10,15]
+"df/de3/classrtt_1_1ai_1_1stp_1_1play_1_1DefensiveStopFormation.html#a1dc216d51c90eb0e6ddb0298e1ad034e":[3,0,1,0,4,3,10,17]
 };
